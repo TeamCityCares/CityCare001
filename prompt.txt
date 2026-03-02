@@ -1,0 +1,9 @@
+I will share you a document and give me the exact ouput i want.
+i want you to cut the crap.
+remove extras in my project.
+mainting the functionality
+i do not want the unrelative stuff to the project like compilance officer who needs them for hosipital and ambulance service.
+make the citizens and patients generalize and give me all the tables and relations to them and also understand the document i shared and according to that give me my output.
+there have to ambulance service .
+give me a detailed output after the cutting the all the crap.
+give me detailed overiew then with workflow and data flow with some ER diags. 
